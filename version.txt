@@ -1,2 +1,1 @@
-VERSION=01.00.19
-' Pré-ZIP
+https://raw.githubusercontent.com/Olinform/Modules/main/version.txt
