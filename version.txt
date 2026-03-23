@@ -1,2 +1,2 @@
-VERSION=01.00.17
-' Pré-ZIP
+VERSION=01.00.02
+' Prï¿½-ZIP
